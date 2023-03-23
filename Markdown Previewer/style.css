@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:rgb(20, 70, 67);
+    color: white;
+}
+
+.textarea{
+    width: 100%;
+    font-size: 22px;
+    padding: 20px;
+    border-radius: 20px;
+    outline: none;
+}
+
+.textarea:focus{
+    box-shadow: 0px 0px 3px 3px royalblue;
+}
+
+#preview{
+    padding: 40px;
+    text-align: left;
+    background-color: rgb(198, 172, 218);
+    color: black;
+    border: 1px solid black;
+    box-shadow: 1px 1px 5px 1px gray;
+    border-radius: 10px;
+}
+
+#preview pre {
+    background-color: white;
+    padding: 10px;
+}
