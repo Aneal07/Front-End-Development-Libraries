@@ -7,6 +7,7 @@ This repository contains the projects I completed as part of the FreeCodeCamp Fr
 These projects cover different aspects of web development, such as responsive design, CSS, JavaScript, and front-end libraries.
 
 Projects Included
+
 Random Quote Machine: A web application that generates random quotes and allows users to tweet them.
 
 Markdown Previewer: A web application that allows users to preview their Markdown syntax in real-time.
