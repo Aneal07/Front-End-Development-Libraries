@@ -39,4 +39,3 @@ I would like to thank FreeCodeCamp for providing this excellent learning resourc
 as well as the community for their support and feedback.
 
 
-[Library Name](https://github.com/Aneal07/Front-End-Development-Libraries/tree/master/25%2B5%20clock)
