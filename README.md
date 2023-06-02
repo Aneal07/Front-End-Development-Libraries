@@ -4,7 +4,7 @@
   https://aneal07.github.io/Front-End-Development-Libraries/Drum%20Machine
    https://aneal07.github.io/Front-End-Development-Libraries/Markdown%20Previewer
     https://aneal07.github.io/Front-End-Development-Libraries/javaScript%20Calculator
-     https://aneal07.github.io/Front-End-Development-Libraries/
+     https://aneal07.github.io/Front-End-Development-Libraries/randomQuoteMAchine
  FreeCodeCamp Front End Development Libraries
 This repository contains the projects I completed as part of the FreeCodeCamp Front End Development Libraries certification.
 These projects cover different aspects of web development, such as responsive design, CSS, JavaScript, and front-end libraries.
