@@ -9,7 +9,7 @@ Projects Included
 
 Random Quote Machine: A web application that generates random quotes and allows users to tweet them.
 [Random Quote Machine] (https://aneal07.github.io/Front-End-Development-Libraries/randomQuoteMAchine)
-![Screenshot] (./quote.jpg)
+![Screenshot] (tree/master/quote.jpg)
 
 Markdown Previewer: A web application that allows users to preview their Markdown syntax in real-time.
 [Markdown-previewer] (  https://aneal07.github.io/Front-End-Development-Libraries/Markdown%20Previewer)
