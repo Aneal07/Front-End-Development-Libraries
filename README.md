@@ -1,10 +1,6 @@
 # Front-End-Development-Libraries
  FreeCodeCamp-Front End Development Libraries
- https://aneal07.github.io/Front-End-Development-Libraries/25%2B5%20clock
-  https://aneal07.github.io/Front-End-Development-Libraries/Drum%20Machine
-   https://aneal07.github.io/Front-End-Development-Libraries/Markdown%20Previewer
-    https://aneal07.github.io/Front-End-Development-Libraries/javaScript%20Calculator
-     https://aneal07.github.io/Front-End-Development-Libraries/randomQuoteMAchine
+
  FreeCodeCamp Front End Development Libraries
 This repository contains the projects I completed as part of the FreeCodeCamp Front End Development Libraries certification.
 These projects cover different aspects of web development, such as responsive design, CSS, JavaScript, and front-end libraries.
@@ -12,14 +8,21 @@ These projects cover different aspects of web development, such as responsive de
 Projects Included
 
 Random Quote Machine: A web application that generates random quotes and allows users to tweet them.
+[Random Quote Machine] (https://aneal07.github.io/Front-End-Development-Libraries/randomQuoteMAchine)
+
 
 Markdown Previewer: A web application that allows users to preview their Markdown syntax in real-time.
+[Markdown-previewer] (  https://aneal07.github.io/Front-End-Development-Libraries/Markdown%20Previewer)
 
 Drum Machine: A web application that allows users to play musical sounds by clicking on buttons or using their keyboard.
+[Drum Machine] (https://aneal07.github.io/Front-End-Development-Libraries/Drum%20Machine)
 
 JavaScript Calculator: A web application that allows users to perform basic arithmetic calculations.
+[Javascript basic calculator] (https://aneal07.github.io/Front-End-Development-Libraries/javaScript%20Calculator)
 
 Pomodoro Clock: A web application that helps users manage their time using the Pomodoro technique.
+[Pomodoro Clock] ( https://aneal07.github.io/Front-End-Development-Libraries/25%2B5%20clock)
+
 
 Technologies Used
 These projects were built using a variety of technologies, including:
