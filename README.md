@@ -26,7 +26,7 @@ Drum Machine: A web application that allows users to play musical sounds by clic
 
 (https://aneal07.github.io/Front-End-Development-Libraries/Drum%20Machine)
 
-![Screenshot](./Drum machine.jpg)
+![Screenshot](./Drummachine.jpg)
 
 JavaScript Calculator: A web application that allows users to perform basic arithmetic calculations.
 [Javascript basic calculator] 
