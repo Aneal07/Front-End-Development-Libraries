@@ -14,7 +14,7 @@ Random Quote Machine: A web application that generates random quotes and allows 
 
 ![Screenshot](./quote.jpg)
 
-Markdown Previewer: A web application that allows users to preview their Markdown syntax in real-time.
+Markdown Previewer: A web application that allows users to preview their Markdown syntax in real time.
 [Markdown-previewer] 
 
 (  https://aneal07.github.io/Front-End-Development-Libraries/Markdown%20Previewer)
@@ -57,7 +57,7 @@ and open the project folder in your preferred text editor. Then,
 open the index.html file in your web browser. Alternatively, 
 you can use a development server to run the projects.
 
-Acknowledgments
+Acknowledgements
 These projects were completed as part of the FreeCodeCamp Front End Development Libraries certification.
 I would like to thank FreeCodeCamp for providing this excellent learning resource, 
 as well as the community for their support and feedback.
